@@ -33,10 +33,7 @@ pip install -r requirements.txt
 ## Configuration
 1. Create a Telegram bot via @BotFather and get the token.
 2. Find the chat/channel ID where notifications will be sent.
-3. Copy the config template and fill it in:
-```powershell
-copy config.ini.template config.ini
-```
+
 Open `config.ini` and set values:
 ```ini
 [TELEGRAM]
