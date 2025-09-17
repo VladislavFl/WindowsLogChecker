@@ -19,7 +19,7 @@
 ## Установка
 ```powershell
 # Клонирование репозитория
-git clone https://github.com/<your-username>/WindowsLogChecker.git
+git clone https://github.com/VladislavFl/WindowsLogChecker.git
 
 # Переход в директорию проекта
 cd WindowsLogChecker
