@@ -21,7 +21,7 @@ Russian documentation: `README.ru.md`.
 ## Installation
 ```powershell
 # Clone the repository
-git clone https://github.com/<your-username>/WindowsLogChecker.git
+git clone https://github.com/VladislavFl/WindowsLogChecker.git
 
 # Enter the project directory
 cd WindowsLogChecker
