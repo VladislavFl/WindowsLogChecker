@@ -31,10 +31,7 @@ pip install -r requirements.txt
 ## Настройка
 1. Создайте Telegram-бота через @BotFather и получите токен.
 2. Узнайте ID чата (группы/канала), куда отправлять уведомления.
-3. Скопируйте шаблон конфига и заполните его:
-```powershell
-copy config.ini.template config.ini
-```
+
 Откройте `config.ini` и укажите значения:
 ```ini
 [TELEGRAM]
